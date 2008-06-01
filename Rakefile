@@ -11,7 +11,8 @@ PROJ.name = 'self-flagellation'
 PROJ.authors = 'Ben Scofield'
 PROJ.email = 'bscofield@gmail.com'
 PROJ.url = 'http://github.com/bscofield/self-flagellation'
-PROJ.rubyforge.name = 'self-flagellat'
+PROJ.rubyforge.name = 'self-flagellati'
+PROJ.version = '1.0.0'
 
 PROJ.spec.opts << '--color'
 
